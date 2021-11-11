@@ -1,5 +1,5 @@
 
-# [𝗸𝗶𝘀𝗵𝗮𝗻𝗺𝘂𝘀𝗶𝗰](https://t.me/DeCodeMusicBot) 
+# [𝗸𝗶𝘀𝗵𝗮𝗻𝗺𝘂𝘀𝗶𝗰](http://t.me/Pihu_kishu_bot) 
 
 ![Decode](https://github.com/TeamDeeCode/DeCoDeMusic/blob/Pytgcalls/20211105_114009.gif) 
 
