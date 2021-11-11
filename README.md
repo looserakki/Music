@@ -5,8 +5,8 @@
 
 #  ⚡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ✈️[Here !](https://t.me/gulu_gulu_garden)
 
-[![kishan](https://img.shields.io/badge/kishan%20-Support%20-blue)](https://t.me/DeCodeSupport)
-[![Kishan](https://img.shields.io/badge/kishan%20-Updates%20-blue)](https://t.me/DeeCodeBots)
+[![kishan](https://img.shields.io/badge/kishan%20-Support%20-blue)](https://t.me/gulu_gulu_garden)
+[![Kishan](https://img.shields.io/badge/kishan%20-Updates%20-blue)](https://t.me/kishu_music)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
