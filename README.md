@@ -3,10 +3,10 @@
 
 ![𝗸𝗶𝘀𝗵𝗮𝗻](https://te.legra.ph/file/66c09b4a114a465d3f617.jpg) 
 
-#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
+#  ⚡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ✈️[Here !](https://t.me/gulu_gulu_garden)
 
-[![DeCode](https://img.shields.io/badge/DeCode%20-Support%20-blue)](https://t.me/DeCodeSupport)
-[![DeCode](https://img.shields.io/badge/DeCode%20-Updates%20-blue)](https://t.me/DeeCodeBots)
+[![kishan](https://img.shields.io/badge/kishan%20-Support%20-blue)](https://t.me/DeCodeSupport)
+[![Kishan](https://img.shields.io/badge/kishan%20-Updates%20-blue)](https://t.me/DeeCodeBots)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
