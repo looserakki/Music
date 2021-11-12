@@ -58,4 +58,6 @@ async def cblocal(_, query: CallbackQuery):
 /admincache - reload bot and refresh the admin list
 
 ⚡ __Powered by **KiShaN** A.I__""",
-  )
+  reply_markup=InlineKeyboardMarkup(
+            [[InlineKeyboardButton("🗑𝐂𝐥𝐨𝐬𝐞", callback=)]] 
+ ) 
