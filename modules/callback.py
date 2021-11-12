@@ -31,7 +31,7 @@ async def close(_, query: CallbackQuery):
 
 
 
-@Client.on_callback_query(filters.regex("chelp"))
+@Client.on_callback_query(filters.regex("cbhelp"))
 async def cblocal(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""🏮 **here is the commands**
