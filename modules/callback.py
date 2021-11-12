@@ -59,5 +59,5 @@ async def cblocal(_, query: CallbackQuery):
 
 ⚡ __Powered by **KiShaN** A.I__""",
   reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🗑𝐂𝐥𝐨𝐬𝐞", callback=)]] 
+            [[InlineKeyboardButton("🗑𝐂𝐥𝐨𝐬𝐞", callback_data="close")]] 
  ) 
