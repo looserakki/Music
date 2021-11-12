@@ -1,13 +1,7 @@
-from datetime import datetime
-from sys import version_info
-from time import time
-
+import os
 from config import BOT_USERNAME   
-from handlers import __version__
-from helpers.decorators import sudo_users_only
 from helpers.filters import command
 from pyrogram import Client, filters
-from pyrogram import __version__ as pyrover
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 
