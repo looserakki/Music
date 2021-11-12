@@ -3,8 +3,13 @@ from config import BOT_USERNAME
 from helpers.filters import command
 from helpers.filters import other_filters2
 from pyrogram import Client, filters
-from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-
+from pyrogram.types import (
+    CallbackQuery,
+    InlineKeyboardButton,
+    InlineKeyboardMarkup,
+    InputMediaPhoto,
+    Message,
+)
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
