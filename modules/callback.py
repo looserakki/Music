@@ -55,7 +55,7 @@ async def cblocal(_, query: CallbackQuery):
 /userbotleave - order the userbot to leave your group
 /musicplayer - (on / off) - disable / enable music player in your group
 /start (in private) - see the bot alive status
-/reload - reload bot and refresh the admin list
+/admincache - reload bot and refresh the admin list
 
 ⚡ __Powered by **KiShaN** A.I__""",
   )
