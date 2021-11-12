@@ -31,7 +31,7 @@ async def close(_, query: CallbackQuery):
 
 
 
-@Client.on_callback_query(filters.regex("chelp"))
+@Client.on_callback_query(filters.regex("cbhelp"))
 async def cblocal(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""🏮 **here is the commands**
@@ -58,4 +58,6 @@ async def cblocal(_, query: CallbackQuery):
 /admincache - reload bot and refresh the admin list
 
 ⚡ __Powered by **KiShaN** A.I__""",
-  )
+  reply_markup=InlineKeyboardMarkup(
+            [[InlineKeyboardButton("🗑𝐂𝐥𝐨𝐬𝐞", callback_data="close")]] 
+ ) 
