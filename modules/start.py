@@ -20,7 +20,7 @@ async def start_private(client: Client, message: Message):
                 ]
                 [
                     InlineKeyboardButton("⚒️𝐒𝐮𝐩𝐩𝐨𝐫𝐭", callback_data="cbsupport"), 
-                    InlineKeyboardButton("🗑𝐂𝐥𝐨𝐬𝐞", callback_data="cbclose")
+                    InlineKeyboardButton("🗑𝐂𝐥𝐨𝐬𝐞", callback_data="close")
                 ]              
             ]
         ),
