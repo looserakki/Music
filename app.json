@@ -1,6 +1,6 @@
 {
   "name": "kishumusic",
-  "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
+  "logo": "https://te.legra.ph/file/f06212fd811503fc18c50.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/kishannn07/music",
@@ -34,12 +34,12 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "gulu_gulu_garden"
+      "value": "music_addict_group"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "kishumusic"
+      "value": "music_addict_group"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -53,7 +53,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": " https://te.legra.ph/file/66c09b4a114a465d3f617.jpg"
+      "value": " https://te.legra.ph/file/f06212fd811503fc18c50.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
@@ -80,7 +80,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "60"
+      "value": "120"
     }
   }
 }
