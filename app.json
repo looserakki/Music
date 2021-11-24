@@ -64,7 +64,8 @@
         "DATABASE_URL": {
             "description": "mongo db url leave if u don't have",
             "required": false,
-            "value": "apna daal dio
+            "value": "mongodb+srv://ZAID3:ZAID3@cluster0.nb30b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
         }
     },
     "buildpacks": [
