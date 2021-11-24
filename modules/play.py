@@ -684,7 +684,7 @@ async def jiosaavn(client: Client, message_: Message):
                 InlineKeyboardButton(
                     "☑️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/music_addict_group"
                 ),
-                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f""),https://t.me/music_addict_group
+                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f""),https://t.me/music_addict_group"
             ],
         ]UNIVERSAL_OP_CHAT
     )
