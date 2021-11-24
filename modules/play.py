@@ -412,10 +412,10 @@ async def m_cb(b, cb):
                     chet_id, 
                     queues.get(chet_id)["file"],
                 )
-                await cb.answer.reply_text("✅ <b>Skipped</b>")
+                await cb.answer.reply_text("✅ <b>rokdiya</b>")
                 await cb.message.edit((m_chat, qeue), reply_markup=r_ply(the_data))
                 await cb.message.reply_text(
-                    f"- ➡️ ꜱᴋɪᴘᴘᴇᴅ ꜱᴏɴɢ\n➡️ ɴᴏᴡ ᴘʟᴀʏɪɴɢ **{qeue[0][0]}**"
+                    f"- ➡️ ꜱᴋɪᴘᴘᴇᴅ ꜱᴏɴɢ\n➡️ ye chal rha hai **{qeue[0][0]}**"
                 )
 
     else:
@@ -489,7 +489,7 @@ async def ytplay(_, message: Message):
             f"<i> {user.first_name} Userbot not in this chat, Ask admin to send /play command for first time or add @{ASSISTANT_NAME} manually</i>"
         )
         return
-    await lel.edit("🔎>")
+    await lel.edit("Dhundh rha hu")
     message.from_user.id
     message.from_user.first_name
 
@@ -497,7 +497,7 @@ async def ytplay(_, message: Message):
     for i in message.command[1:]:
         query += " " + str(i)
     print(query)
-    await lel.edit("🎵")
+    await lel.edit("milgya")
     ydl_opts = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
@@ -513,7 +513,7 @@ async def ytplay(_, message: Message):
         views = results[0]["views"]
 
     except Exception as e:
-        await lel.edit("🙄")
+        await lel.edit("chutiya🙄")
         print(str(e))
         return
     try:
@@ -538,9 +538,9 @@ async def ytplay(_, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                    "☑️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/kishu_music"
+                    "☑️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/music_addict_group"
                 ),
-                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/UNIVERSAL_OP_CHAT"),
+                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/music_addict_group"),
             ],
         ]
     )
@@ -558,7 +558,7 @@ async def ytplay(_, message: Message):
         qeue.append(appendable)
         await message.reply_photo(
             photo="final.png",
-            caption=f"☑️ **ꜱᴏɴɢ ᴀᴅᴅᴇᴅ ᴛᴏ Qᴜᴇᴜᴇ »** {position}!",
+            caption=f"☑️ **gana laga diya queue me »** {position}!",
             reply_markup=keyboard,
         )
         os.remove("final.png")
@@ -575,7 +575,7 @@ async def ytplay(_, message: Message):
         try:
             await callsmusic.set_stream(chat_id, file)
         except:
-            message.reply("😕 **ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɴᴏᴛ ꜰᴏᴜɴᴅ**\n\n» ᴘʟᴇᴀꜱᴇ ᴛᴜʀɴ ᴏɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰɪʀꜱᴛ")
+            message.reply("😕 **vc kaha hai chutiya**\n\n» ᴘʟᴇᴀꜱᴇ ᴛᴜʀɴ ᴏɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰɪʀꜱᴛ")
             return
         await message.reply_photo(
             photo="final.png",
@@ -682,11 +682,11 @@ async def jiosaavn(client: Client, message_: Message):
             ],
             [
                 InlineKeyboardButton(
-                    "☑️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/kishu_music"
+                    "☑️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/music_addict_group"
                 ),
-                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/UNIVERSAL_OP_CHAT"),
+                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f""),https://t.me/music_addict_group
             ],
-        ]
+        ]UNIVERSAL_OP_CHAT
     )
     file = await convert(wget.download(slink))
     chat_id = get_chat_id(message_.chat)
@@ -718,7 +718,7 @@ async def jiosaavn(client: Client, message_: Message):
         try:
             await callsmusic.set_stream(chat_id, file)
         except:
-            res.edit("😒 **ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɴᴏᴛ ꜰᴏᴜɴᴅ**\n\n» ᴘʟᴇᴀꜱᴇ ᴛᴜʀɴ ᴏɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰɪʀꜱᴛ")
+            res.edit("😒 **vc kaha hai chutiya**\n\n» ᴘʟᴇᴀꜱᴇ ᴛᴜʀɴ ᴏɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰɪʀꜱᴛ")
             return
     await res.edit("Generating Thumbnail.")
     await generate_cover(requested_by, sname, ssingers, sduration, sthumb)
