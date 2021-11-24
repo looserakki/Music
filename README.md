@@ -3,10 +3,10 @@
 
 ![𝗸𝗶𝘀𝗵𝗮𝗻](https://te.legra.ph/file/66c09b4a114a465d3f617.jpg) 
 
-#  ⚡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ✈️[Here !](https://t.me/gulu_gulu_garden)
+#  ⚡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ✈️[Here !](https://t.me/music_addict_group)
 
-[![kishan](https://img.shields.io/badge/kishan%20-Support%20-blue)](https://t.me/gulu_gulu_garden)
-[![Kishan](https://img.shields.io/badge/kishan%20-Updates%20-blue)](https://t.me/kishu_music)
+[![kishan](https://img.shields.io/badge/kishan%20-Support%20-blue)](https://t.me/music_addict_group)
+[![Kishan](https://img.shields.io/badge/kishan%20-Updates%20-blue)](https://t.me/music_addict_group)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
