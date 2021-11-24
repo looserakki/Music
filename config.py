@@ -25,8 +25,8 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL")) # Your Log Channel! Make a priv
 BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", False)) # If you need to broadcast messages as a copy or Forwarded Message
 THUMB_URL = os.environ.get("THUMB_URL", "https://telegra.ph/file/0bb51f04fa6fe2252c945.jpg")
 KISHU_QUE = os.environ.get("KISHU_QUE", "https://telegra.ph/file/c16cbc1b51444436477c6.jpg")
-UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "music_addict_group)
-KISHU_SUPPORT = os.environ.get("KISHU_SUPPORT", "music_addict_group)
+UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "music_addict_group")
+KISHU_SUPPORT = os.environ.get("KISHU_SUPPORT", "music_addict_group")
 
 # SOON ADDING 
 ARQ_API_KEY = getenv("ARQ_API_KEY")
